@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Kto jest twórcą formatu JSON?",
+    "choices": ["Douglas Crocford","Kyle Simpson","Nicholas C. Zakas"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Jak 'fachowo' nazywa się mechanizm sprawdzający cczy może dodać asynchroniczne zdarzenia na stos?",
+    "choices": ["Call Stack","Event Loop","Heap"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Kto jest twórcą języka JavaScript",
+    "choices": ["Brendan Eich","Nicholas C. Zakas", "Douglas Crocford"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Kto jest twórcą języka JavaScript",
+    "choices": ["Brendan Eich","Nicholas C. Zakas", "Douglas Crocford"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Jeden interfejs może być implementowany przez wiele obiektów. Wskaż wlasciwą definicję: ",
+    "choices": ["Agregacja","Kapsulkowanie", "Polimorfizm"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Co zwróć wywolanie kodu: typeof null",
+    "choices": ["null","object", "undefined"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Jak nazywa się proces który przeprowadza silnik JavaScript aby móc wywoywać metody na zmiennych typu prostego?",
+    "choices": ["box wrap","wrapping", "autoboxing"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Funckje w JavaScript to obiekty. Jaka jednak cecha odróżnia je od innych obiektów?",
+    "choices": ["Wlasciwosć [[Call]]","Wlasciwosć [[Run]]", "Wlasciwosc [[__proto__]]"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Jak nazywa się proces wynoszenia zmiennych zadeklarowanych slowem var?",
+    "choices": ["Hoist","Hoistig", "Hoisting"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Jak nazywa się tablica przechowująca parametry przekazane funkcji?",
+    "choices": ["Args","Arguments", "Argis"],
+    "correctAnswer": 1
+  }
+]
